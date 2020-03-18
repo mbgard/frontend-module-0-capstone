@@ -27,7 +27,7 @@ Cascading means you can write simpler style sheet because you can create generic
 A selector and a declaration.
 
 ### Link CSS stylesheet to HTML doc:
-**<link>** and **<style>**
+**link** and **style**
 
 ### Useful to use external stylesheets:
 When building a site with more than one page, to keep them uniform.
