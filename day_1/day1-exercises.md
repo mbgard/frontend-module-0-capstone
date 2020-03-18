@@ -14,12 +14,12 @@ The head contains information about the page. The titleis the name of the page, 
 In Chrome, you would view the source of a website by clicking View and then Source or View Source.
 
 ### List 5 different HTML elements and what they are used for.
-<p></p> is a paragraph element.
-<h1></h1> is a text header.
-<img></img> is an imbedded image.
-<hr></hr> is a horizontal ruler.
-<body></body> is everything shown inside the main browser window.
-<br> is a line break.
+**p** is a paragraph element.
+**h1** is a text header.
+**img** is an imbedded image.
+**hr** is a horizontal ruler.
+**body** is everything shown inside the main browser window.
+**br** is a line break.
 
 ### Empty elements:
 An element with no closing tag and can be "closed" in the opening tag (</br>).
