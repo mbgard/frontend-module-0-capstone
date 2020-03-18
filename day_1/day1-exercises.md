@@ -20,3 +20,7 @@ Empty elements: an element with no closing tag and can be "closed" in the openin
 Semantic markup: introduces meaning to the web page rather than just presentation. Their purpose is to describe the content of your web pages more accurately.
 
 Semantic elements in html5: <header> <nav> <article> <em> <blockquote>
+
+Codepen.io account: https://codepen.io/mbgard
+
+Codepen.io day1: https://codepen.io/mbgard/pen/ExjNWJv
